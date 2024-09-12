@@ -1,0 +1,1 @@
+#Faça um programa para uma escola que tem 4 bimestre o aluno terá uma prova e um trabalho, mostre a média de cada bimestre e ao final dos bimestre mostre se o aluno foi aprovado, reprovado ou em recuperação a nota deve ser 60 para aprovado, maior ou igual a 35 para recuperação e menor que 35 para reprovação.  

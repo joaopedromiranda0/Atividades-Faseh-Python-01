@@ -1,0 +1,1 @@
+#Um programa que permite ao usuário adivinhar um número e recebe feedback se o palpite foi maior ou menor que o número correto.Expanda o programa para incluir diferentes níveis de dificuldade (fácil,médio, difícil), onde o intervalo de números varia.
